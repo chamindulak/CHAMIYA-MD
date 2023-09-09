@@ -80,9 +80,9 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 
 
 ### Thanks To
-- [Sam Pamday](https://github.com/chamindulak) 
+- [Vajira rathnayaka](https://github.com/vajirabot1) 
 
 
-The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
+The Chamiya_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
 ##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/chamindulak/CHAMIYA-MD)
