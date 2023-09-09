@@ -18,15 +18,15 @@
 
 CURRENTLY RUNNING ON BETA VERSION!!
 *
-   * @project_name : Suhail-Md
-   * @author : Suhail Tech Info
-   * @youtube : https://www.youtube.com/c/@SuhailTechInfo0
-   * @description : Suhail-Md ,A Multi-functional whatsapp user bot.
+   * @project_name : Chamiya-Md
+   * @author : Chamiya Tech Info
+   * @youtube : https://www.youtube.com/@user-chamiyalx982
+   * @description : Chamiya-Md ,A Multi-functional whatsapp user bot.
    * @version 1.0.9
 *
    * Licensed under the  GPL-3.0 License;
 * 
-   * Created By Suhail Tech Info.
+   * Created By Chamiya Tech Info.
    * © 2023 Suhail-Md.
 * 
    * THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
@@ -408,7 +408,7 @@ smd({
             use: '<add sticker url.>',
         },
         async(Suhail, citel, text) => {
-	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/SuhailTechInfo/Secktor-bot_*') 
+	if (!text) return await citel.send('*Provide Repo Url, Ex:- _.gitclone https://github.com/chamindulak/CHAMIYA-MD_*') 
     const regex = /(?:https|git)(?::\/\/|@)github\.com[\/:]([^\/:]+)\/(.+)/i
     if (!regex.test(text) ) return await citel.send('*Uhh Please, Provide Valid Repositry Url*');
     let [_, user, repo] = text.match(regex) || []
@@ -764,7 +764,7 @@ smd({
         },
         async(Suhail, citel, text) => {
             let yts = require("secktor-pack");
-            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by Suhail Tech`);
+            if (!text) return citel.reply(`Example : ${prefix}yts WhatsApp Bot by Chamiya Tech`);
             let search = await yts(text);
             let textt = "*YouTube Search*\n Result From " + text + "\n   ─────────────────── \n";
             let no = 1;
