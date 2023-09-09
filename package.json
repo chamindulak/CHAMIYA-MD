@@ -1,5 +1,5 @@
 {
-               "name": "suhail-md",
+               "name": "CHAMIYA-MD",
                "version": "1.0.9",
                "description": "Multi device whatsapp bot by SuhailTechInfo.",
                "main": "lib/client.js",
@@ -72,10 +72,10 @@
                     },
                  "repository": {
                  "type": "git",
-                 "url": "git+https://github.com/SuhailTechInfo/Suhail-Md.git"
+                 "url": "git+https://github.com/chamindulak/CHAMIYA-MD"
                   },
                  "bugs": {
-                 "url": "https://github.com/SuhailTechInfo/Suhail-Md/issues"
+                 "url": "https://github.com/chamindulak/CHAMIYA-MD/issues"
                   },
-                 "homepage": "https://github.com/SuhailTechInfo/Suhail-Md#readme"
+                 "homepage": "https://github.com/chamindulak/CHAMIYA-MD#readme"
                   }
