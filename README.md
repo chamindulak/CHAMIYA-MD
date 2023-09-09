@@ -1,21 +1,21 @@
- <h1 align="center"> Suhail Md </h1> 
-<p align="center"> Introducing Suhail_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+ <h1 align="center"> CHAMIYA MD </h1> 
+<p align="center"> Introducing Chamiya_Md, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/ec9bc5038601821f2eb84.jpg">
+  <a href="https://www.youtube.com/@user-chamiyalx982">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/61e078da8557be7aa91df.jpg">
   </a>
 </p>
   
    
 <p align="center">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/SuhailTechInfo/Suhail-Md" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/chamindulak/CHAMIYA-MD" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Chamiya_Md is free to use" href="https://github.com/chamindulak/CHAMIYA-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Suhail_Md is free to use" href="https://www.youtube.com/@user-chamiyalx982" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -59,12 +59,12 @@
 ---
 1.  ***Get [`SESSION ID 1`](https://replit.com/@SuhailTechInfo/Suhail-Md?v=1), [`SESSION ID 2`](https://replit.com/@SuhailTechInfo/Secktor-Bot?v=1) by scanning QR code. And Scan it `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI).***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` if you Like that Bot.***
+3.  ***Click [`FORK`](https://github.com/chamindulak/CHAMIYA-MD/fork) and `Star ⭐ Repository` if you Like that Bot.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
-6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
+6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/chamindulak/CHAMIYA-MD)***
+7.  ***Deploy on [`Replit`](https://github.com/chamindulak/CHAMIYA-MD)***
 
 ##
 
@@ -80,9 +80,9 @@ mongodb+srv://Suhail_Md:Suhail_Md@cluster1.0tlyzhm.mongodb.net/?retryWrites=true
 
 
 ### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
+- [Sam Pamday](https://github.com/chamindulak) 
 
 
 The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
 
-##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/SuhailTechInfo/Suhail-Md)
+##Deploy on [`heroku`]( https://dashboard.heroku.com/new?template=https://github.com/chamindulak/CHAMIYA-MD)
