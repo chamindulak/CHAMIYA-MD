@@ -1,14 +1,14 @@
 {
-  "name": "Suhail-Md By Suhail Tech Info",
+  "name": "Chamiya-Md By Chamiya Tech Info",
   "description": "A Whatsapp bot built in NodeJs to make experience better\n\t if Any Problem : www.youtube.com/c/SuhailTechInfo",
-  "logo": "https://i.imgur.com/NpA3ZsJ.jpeg",
+  "logo": "https://telegra.ph/file/61e078da8557be7aa91df.jpg",
   "keywords": ["whatsappbot", "suhailMd", "suhail Md Wa bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
     "description": "Name of Bot Owner",    
-    "value": "Suhail Tech Info",
+    "value": "Chamiya Tech Info",
     "required" :true
   }, 
   "HEROKU_API_KEY": {
@@ -62,7 +62,7 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-    "value": "923184474176"
+    "value": "94723737086"
   },
    "SESSION_ID": {
     "description": "Please put your SESSION_ID here,if you don't have visit\nhttps://replit.com/@SuhailTechInfo/Secktor-Bot"
@@ -83,7 +83,7 @@
   },
   "MODE": {
     "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-    "value": "private"
+    "value": "public"
   },
   "AUTO_REACTION": {
     "description": " Set it `true` If You Wants To Reacts emoji to all commands. \n And Set it `all` is You Wants to React Emojies to All Messages",
